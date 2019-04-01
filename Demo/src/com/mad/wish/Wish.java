@@ -8,7 +8,7 @@ public class Wish {
 		System.out.println("msg from s.o");
 		System.out.println("modi by DEv2");
 
-
+     System.out.println("sjdjwkld");
 	}
 
 }
