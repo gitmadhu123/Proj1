@@ -9,6 +9,8 @@ public class Wish {
 		System.out.println("modi by DEv2");
 
 		System.out.println("create stashin by dev2");
+		
+		System.out.println("ignored one file from dev2");
 	}
 
 }
